@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 155,
+          "green": 151,
+          "blue": 123,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#9B977B",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "luminance": 0.31,
+          "luminancePercent": "31%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.11,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 116,
+          "green": 113,
+          "blue": 92,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#74715c",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.16,
+          "luminancePercent": "16%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 4.93,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 201,
+          "green": 163,
+          "blue": 109,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#C9A36D",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "luminance": 0.4,
+          "luminancePercent": "40%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 8.94,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 0,
+          "green": 0,
+          "blue": 0,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#000000",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0,
+          "luminancePercent": "0%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 21,
           "wcagRating": "AAA"
         }
       },
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 116,
+          "green": 113,
+          "blue": 92,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#74715c",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.16,
+          "luminancePercent": "16%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 4.93,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,51 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'Sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Prata', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://www.nicholsortho.com/wp-content/uploads/2024/05/Nichols__Primary_Color-1.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://www.nicholsortho.com/wp-content/uploads/2024/05/Nichols__Primary_Color-1.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
+          "hex": "#212121",
+          "luminosity_percent": 2,
+          "count": 28
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#202020",
+          "luminosity_percent": 1,
+          "count": 23
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#222222",
+          "luminosity_percent": 2,
+          "count": 4
         },
         {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
+          "hex": "#1f1f1f",
+          "luminosity_percent": 1,
+          "count": 4
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
-        },
-        {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
-        },
-        {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
+          "hex": "#c8a36d",
+          "luminosity_percent": 40,
           "count": 1
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#212121",
+      "avg_luminosity": 2.2,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://www.nicholsortho.com/wp-content/uploads/2024/11/cropped-Favicon-32x32.png"
   }
 }
